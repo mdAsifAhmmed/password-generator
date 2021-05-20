@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #3b3b98;
+  background-color: #e7e7f2;
   color: #fff;
   font-family: 'Muli', sans-serif;
   display: flex;
@@ -24,7 +24,7 @@ h2 {
 }
 
 .container {
-  background-color: #23235b;
+  background-color: #20202f;
   box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
   padding: 20px;
   width: 350px;
@@ -60,7 +60,7 @@ h2 {
 
 .btn {
   border: none;
-  background-color: #3b3b98;
+  background-color: #060619;
   color: #fff;
   font-size: 16px;
   padding: 8px 12px;
